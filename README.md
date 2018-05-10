@@ -1,4 +1,5 @@
 # admin-site
+<<<<<<< HEAD
 
 > A Vue.js admin site
 
@@ -25,3 +26,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+A Vue.js admin site
+>>>>>>> fc166059e7f9a38b096172851e31792bf6b20823
